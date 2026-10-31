@@ -55,7 +55,7 @@ Natural Language Processing project for sentiment classification.
 
 3. Problem Solving Journey
 
-My Python, SQL and Data Structures & Algorithms practice.
+My Python and Data Structures & Algorithms practice.
 
 "View Repository" (https://github.com/up67650-cyber)
 
