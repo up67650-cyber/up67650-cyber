@@ -120,4 +120,6 @@ My Python and Data Structures & Algorithms practice.
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Jupyter](https://skillicons.dev/icons?i=jupyter)
-<img src="https://img.shields.io/badge/GitHub-Collaborator-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://colab.research.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+</a>
