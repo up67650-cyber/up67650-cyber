@@ -120,5 +120,4 @@ My Python and Data Structures & Algorithms practice.
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
-  <img
 <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab"/>
