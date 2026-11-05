@@ -98,8 +98,7 @@ My Python and Data Structures & Algorithms practice.
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=up6750-cyber&theme=github-dark-blue)](https://git.io/streak-stats)
-
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=up6750-cyber&theme=github-dark-blue)
 
 ---
 
