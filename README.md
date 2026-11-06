@@ -96,12 +96,9 @@ My Python and Data Structures & Algorithms practice.
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=up67650-cyber&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-vercel.vercel.app/?user=up6750-cyber&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=up6750-cyber&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
----
 
 ## 🛠️ Tech Stack
 
