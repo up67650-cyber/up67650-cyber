@@ -99,7 +99,7 @@ My Python and Data Structures & Algorithms practice.
 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=up67650-cyber&theme=github-dark-blue&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=up67650-cyber&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
 
