@@ -96,10 +96,10 @@ My Python and Data Structures & Algorithms practice.
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=up67650-cyber&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=up67650-cyber&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=up67650-cyber&theme=github-dark-blue&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
 </p>
 
 
