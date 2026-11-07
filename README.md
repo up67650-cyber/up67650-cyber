@@ -94,6 +94,8 @@ My Python and Data Structures & Algorithms practice.
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=up67650-cyber&show_icons=true&show=issues_authored&theme=tokyonight&cache_seconds=3600)
 
+## Top Language
+
 <p align="center">
   <img
     src="https://github-statspro.vercel.app/api/languages/up67650-cyber?theme=tokyonight&layout=donut"
