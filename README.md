@@ -92,7 +92,7 @@ My Python and Data Structures & Algorithms practice.
 ---
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=up67650-cyber&show_icons=true&show=issues_authored&theme=tokyonight) &cache_seconds=3600
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=up67650-cyber&show_icons=true&show=issues_authored&theme=tokyonight)&cache_seconds=3600
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=up67650-cyber&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
